@@ -55,8 +55,7 @@ More information on the manufacturer's official website: https://twotrees3d.com/
 
 ### Calibration & Tests
 #### XYZ Cube ([STL](https://www.thingiverse.com/thing:1278865))
-<p align="center"><img src="https://github.com/petrzoufaly/Two-Trees-Bluer-3D-Printer/blob/master/Assets/
-" width="80%" height="80%"></p>
+<p align="center"><img src="https://github.com/petrzoufaly/Two-Trees-Bluer-3D-Printer/blob/master/Assets/IMG_20201114_103646.jpg" width="80%" height="80%"></p>
 
 
 ### BlueR Self-Upgrades Parts
