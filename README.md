@@ -17,6 +17,9 @@ Thanks [Tiago Silva](https://github.com/TiagoPaulaSilva) for his original reposi
 ## Firmware
 Versions|[Marlin 3D Printer Firmware](https://github.com/MarlinFirmware/Marlin/releases/tag/2.1.2) (from release-2.1.2 compiled 2023-02-17) + [BlueR v3 Marlin Configurations](https://github.com/MarlinFirmware/Configurations/tree/release-2.1.2/config/examples/Two%20Trees/BlueR/BlueR%20V3) (from release-2.1.2 compiled 2023-02-17)|
 --- | ---
+## Compiling settings
+Using Auto Build Marlin:
+<p align="center"><img src="https://github.com/petrzoufaly/Two-Trees-Bluer-3D-Printer/blob/master/Assets/VS_Code-ABMsettings.png" width="80%" height="80%"></p>
 
 ## Machine Specs
 | Parameter | Value |
