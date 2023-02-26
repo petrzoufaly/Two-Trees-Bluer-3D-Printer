@@ -49,6 +49,8 @@ Display|MKS Robin TFT35(FSMC) (schematic not available)|
 
 More information on the manufacturer's official website: https://twotrees3d.com/
 
+## Notes
+[Cellphone battery replacement](https://www.youtube.com/watch?v=7f8SliNGeDM)
 
 ## Print Samples
 
